@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Autoreader for Lhtranslation
-// @version      2.0.1
+// @version      2.1
 // @description  Inserts a button which takes you to reader automatically.
 // @author       LittleEndu
 // @include      http://lhtranslation.net/*
