@@ -3,7 +3,7 @@
 // @version      2.0
 // @description  Inserts a button which takes you to reader automatically.
 // @author       LittleEndu
-// @include      http://lhtranslation.com/*
+// @include      http://lhtranslation.net/*
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 // @grant        none
 // ==/UserScript==
